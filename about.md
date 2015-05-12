@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Working as an IT consultant, fancy about Salesforce and cloud. 
+Working as an IT consultant, fancy about Salesforce ecosystem and other cloud-related stuff. 
 
 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[j.upenieks@gmail.com](mailto:j.upenieks@gmail.com)
