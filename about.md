@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blogging about my experiences with Salesforce 
+Blogging about my experiments with Salesforce 
 
 
 
