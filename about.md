@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Working as an IT consultant, fancy about Salesforce ecosystem and other cloud-related stuff. 
+Blogging about my experiences with Salesforce 
 
 
 
